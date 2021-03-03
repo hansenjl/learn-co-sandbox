@@ -1,6 +1,6 @@
-require "hiking/version"
+require "baseball/version"
 
-module Hiking
+module Baseball
   class Error < StandardError; end
   # Your code goes here...
 end
